@@ -70,9 +70,3 @@ npx expo start
 3. Deleting a Task:
    - Tap the "×" button next to any task
    - The task will be removed from the list
-
-## Notes
-
-- This is a frontend-only application using local state management
-- Tasks are not persisted between app restarts
-- The app uses native React Native components for optimal performance
